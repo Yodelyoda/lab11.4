@@ -1,0 +1,5 @@
+﻿  lab11.4.cpp
+C:\Users\Yoda\source\repos\lab11.4\lab11.4.cpp(157): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Yoda\source\repos\lab11.4\lab11.4.cpp(201): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Yoda\source\repos\lab11.4\lab11.4.cpp(205): warning C4101: 'temp': unreferenced local variable
+  lab11.4.vcxproj -> C:\Users\Yoda\source\repos\lab11.4\Debug\lab11.4.exe
